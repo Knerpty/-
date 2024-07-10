@@ -2,8 +2,8 @@
 
 - linux:
   
-  ![Linux_1](https://github.com/Knerpty/-/L0/屏幕截图 2024-07-10 210556.png)
+  ![Linux_1](https://github.com/Knerpty/-/L0/L0_linux_1.png)
   
-  ![Linux_2](https://github.com/Knerpty/-//L0/屏幕截图 2024-07-10 210613.png)
+  ![Linux_2](https://github.com/Knerpty/-//L0/L0_linux_2.png)
 - git:
 - python:
