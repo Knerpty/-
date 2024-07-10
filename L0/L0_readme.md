@@ -1,10 +1,7 @@
 ## L0. 入门岛
 
-- linux:
+- linux: [linux任务](L0/L0_linux.md)
   
-  ![Linux_1](L0_linux_1.png)
-  
-  ![Linux_2](L0_linux_2.png)
 - python:
 
   1. 
